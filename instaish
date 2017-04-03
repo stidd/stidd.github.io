@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>sorting pictures</title>
+        <link rel="stylesheet" href="instaish.css" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+    </head>
+<body>
+
+<div class="container">
+
+    <header>
+        <div class="logo">
+            <a href="#"><img class="logo_pic" src="http://www.clker.com/cliparts/Y/j/S/X/r/l/mountain-bike.svg"></a>
+        </div>
+
+        <div class="nav">
+            <div class="gallery">
+                <p>gallery</p>
+
+            </div>
+            <div class="shop">
+                <p>shop</p>
+            </div>
+        </div>
+
+    </header>
+
+    <div class="round_pics_box">
+        <div class="pictures">
+            <img class="bmx" src="http://media.mongoose.com/media/catalog/product/m/1/m15_20b_legionl20_red.1408534942.1431024980.jpg">
+            <img class="mtn" src="http://www.bikes.com/sites/default/files/models/Pipeline_770-MSL.jpg">
+            <img class="road" src="http://parisbikeco.com/wp-content/uploads/2013/11/cannondale-six-carbon-105-special-edition-road-bike1.jpg">
+            <img class="trail" src="http://www.visitgarda.com/upload/cms/400_x/Mountain%20bike%20sul%20Lago%20di%20Garda(1).jpg">
+            <img class="jump" src="https://i.ytimg.com/vi/JVUoyohf0xg/maxresdefault.jpg">
+            <img src="http://vignette1.wikia.nocookie.net/towerofsaviors/images/4/47/Placeholder.png/revision/20140518072131">
+            <img src="http://vignette1.wikia.nocookie.net/towerofsaviors/images/4/47/Placeholder.png/revision/20140518072131">
+            <img src="http://vignette1.wikia.nocookie.net/towerofsaviors/images/4/47/Placeholder.png/revision/20140518072131">
+            <img src="http://vignette1.wikia.nocookie.net/towerofsaviors/images/4/47/Placeholder.png/revision/20140518072131">
+            <img src="http://vignette1.wikia.nocookie.net/towerofsaviors/images/4/47/Placeholder.png/revision/20140518072131">
+            <img src="http://vignette1.wikia.nocookie.net/towerofsaviors/images/4/47/Placeholder.png/revision/20140518072131">
+            <img src="http://vignette1.wikia.nocookie.net/towerofsaviors/images/4/47/Placeholder.png/revision/20140518072131">
+
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+</html>
 
