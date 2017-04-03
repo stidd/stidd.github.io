@@ -1,0 +1,99 @@
+.container {
+    max-width: : 960px;
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    max-width: 720px;
+    min-width: 300px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: #E2DEEE;
+    background-image: url(http://wallpapercave.com/wp/C6SyAhL.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+.logo{
+    width: 50px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.logo_pic {
+    width: 75px;
+    height: 75px;
+}
+.nav {
+    width: 250px;
+    margin: 0 auto;
+
+}
+.gallery {
+    background-color: black;
+    float: left;
+    width: 125px;
+}
+.gallery:hover{
+    background-color: #4F5357;
+}
+.shop {
+    background-color: #4F5357;
+    float: left;
+    width: 125px;
+}
+.shop:hover {
+    background-color: black;
+}
+p{
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+}
+
+
+.round_pics_box {
+    max-width: 720px;
+    min-width: 300px;
+    margin: 0 auto;
+    background-color: black;
+}
+.pictures{
+    max-width: 614px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.bmx {
+    width: 150px;
+    height: 100px;
+}
+.mtn {
+    width: 150px;
+    height: 100px;
+}
+.road {
+    width: 150px;
+    height: 100px;
+}
+.trail {
+    width: 150px;
+    height: 100px;
+}
+.jump {
+    width: 150px;
+    height: 100px;
+}
+img{
+    width: 150px;
+    height: 100px;
+}
+.pictures img:hover{
+    margin: .1em;
+    padding: .5em;
+    cursor: pointer;
+    background: black;
+}
